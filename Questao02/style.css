@@ -1,0 +1,28 @@
+.name1{
+    color: red;
+}
+.name2{
+    color: rgb(17, 0, 255);
+}
+.name3{
+    color: rgb(0, 255, 85);
+}
+
+.cor1{
+    background-color: rgb(255, 106, 0);
+}
+
+.cor2{
+    background-color: rgb(209, 32, 171);
+}
+
+.cor3{
+    background-color: rgb(179, 255, 0);
+}
+.cor4{
+    background-color: rgb(0, 38, 255);
+}
+
+h1{
+    text-align: right;
+}

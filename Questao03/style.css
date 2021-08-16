@@ -1,0 +1,29 @@
+
+
+h3{
+    background-color: orangered;
+    height: 100px;
+    border-style: solid;
+    border-color: rgb(4, 94, 4);
+}
+
+.p{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    border-style: solid;
+}
+
+ul{
+   
+    background-color: rgb(141, 63, 206);
+    border-style: solid;
+    height: 100px;
+
+}
+
+h1{
+    background-color: orange;
+    height: 100px;
+    border-style: solid;
+    border-color: rgb(80, 28, 28);
+}

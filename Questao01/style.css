@@ -1,0 +1,17 @@
+a{
+    color: rgb(76, 0, 255);
+    font-weight: bold;
+}
+
+span{
+
+    color: red;
+}
+
+.destaque{
+    background-color:khaki;
+}
+
+#unico{
+    font-weight: bold;
+}
